@@ -34,3 +34,4 @@ I also learned a lot about using multiple files and the organization benefits of
 I think the program is very readeable due to the inline comments.
 It's adaptable because I didn't force any part of the code into the main function.
 Every section of this code is written within it's own function. so adding additional functions would be simpler. 
+The menu function of the code is wrapped in a while loop, so adding additional commands is simple and ready.
